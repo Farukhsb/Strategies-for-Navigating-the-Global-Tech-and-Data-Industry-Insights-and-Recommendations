@@ -50,12 +50,12 @@ SELECT *
 FROM jobs_in_data;
 
 -- Modify table structure: Rename and drop columns
-ALTER TABLE [dbo].[jobs_in_data] DROP COLUMN Company_size;
+ALTER TABLE jobs_in_data DROP COLUMN Company_size;
 EXEC sp_rename 'dbo.jobs_in_data.companysize', 'company_size', 'COLUMN';
 
 -- Data Validation: Records with NULL values in specific columns
 SELECT *
-FROM [dbo].[jobs_in_data]
+FROM jobs_in_data
 WHERE 
     work_year IS NULL OR
     job_title IS NULL OR
