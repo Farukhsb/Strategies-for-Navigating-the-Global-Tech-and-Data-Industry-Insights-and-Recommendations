@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data source](#data-source)
-- [Tools](#tools)
+- [Programming Language](#programming-language)
 - [Data Preparation](#data-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
@@ -18,8 +18,8 @@ The project aims to analyze job-related data, examining job distributions, exper
 ### Data source
 Jobs and Salaries in Data Science: the primary dataset used for this analysis is the jobs-in-data.csv from kaggle
 
-### Tools
-- SQL -Data Analysis
+### Programming Language
+- SQL - Data Analysis [Download here](https://www.microsoft.com/en-GB/sql-server/sql-server-downloads)
 
 ### Data Preparation 
 In the initial data preparation phase, i performed the following tasks
@@ -47,7 +47,7 @@ USE Data1;
 
 -- Display the initial table structure
 SELECT * 
-FROM [dbo].[jobs_in_data];
+FROM jobs_in_data;
 
 -- Modify table structure: Rename and drop columns
 ALTER TABLE [dbo].[jobs_in_data] DROP COLUMN Company_size;
