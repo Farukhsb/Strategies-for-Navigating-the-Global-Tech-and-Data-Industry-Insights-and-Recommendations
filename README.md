@@ -216,7 +216,7 @@ ORDER BY
 • Emerging markets like India, Turkey, and Brazil appear in smaller volumes but indicate growing participation.
 
 2.	Job Roles and Seniority Levels
-A wide distribution of roles—Data Scientists, ML Engineers, Architects—suggests a mature market. Seniority spans Executive to Entry-level, indicating career progression opportunities.
+A wide distribution of roles Data Scientists, ML Engineers, Architects suggests a mature market. Seniority spans Executive to Entry-level, indicating career progression opportunities.
 
 3.	Global Salary Trends
 • Executive roles earn 114% more than entry-level positions ($189k vs $88k on average).
