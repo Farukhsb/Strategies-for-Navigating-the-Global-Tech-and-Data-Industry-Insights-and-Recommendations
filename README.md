@@ -211,6 +211,7 @@ ORDER BY
 ```
 ### Results
 1.	Geographical Distribution of Jobs
+
 • The United States accounts for 86.9% of all roles, showing overwhelming global dominance.
 • The UK, Germany, and Spain emerge as the strongest European contributors.
 • Emerging markets like India, Turkey, and Brazil appear in smaller volumes but indicate growing participation.
@@ -219,11 +220,13 @@ ORDER BY
 A wide distribution of roles Data Scientists, ML Engineers, Architects suggests a mature market. Seniority spans Executive to Entry-level, indicating career progression opportunities.
 
 3.	Global Salary Trends
+
 • Executive roles earn 114% more than entry-level positions ($189k vs $88k on average).
 • Salary leadership remains concentrated in the US, Canada, and Germany.
 • A structured pay hierarchy exists across experience levels.
 
 4.	Economic Insights
+
 • Compensation in emerging markets reflects substantial variance:
  – Brazil: $58.6k
  – India: $43.4k
